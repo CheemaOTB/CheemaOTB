@@ -3,8 +3,8 @@
 
 <p align="center">
   <b>🤖 Here are some projects that I'm working on:</b><br>
-  <a href="https://twitter.com/CheemaGen">CheemaGen</a> 
-  <br><a href="https://twitter.com/CheemaAIO">CheemaAIO</a> <br>
+  ⭐<a href="https://twitter.com/CheemaGen">CheemaGen</a> 
+  <br>⭐<a href="https://twitter.com/CheemaAIO">CheemaAIO</a> <br>
 </p>
 
 
