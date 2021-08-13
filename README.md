@@ -1,4 +1,4 @@
-<h1 align="center"> Learning to code with Projects 💻 </h1>
+<h1 align="center"> Learning To Code With Projects 💻 </h1>
 
 🤖 Here are some projects that I'm working on:
 - [CheemaGen](https://twitter.com/CheemaGen)
