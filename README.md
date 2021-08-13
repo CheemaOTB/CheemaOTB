@@ -3,13 +3,10 @@
 <p align="center">
   <b>🤖 Here are some projects that I'm working on:</b><br>
   <a href="https://twitter.com/CheemaGen">CheemaGen</a> |
-  <a href="https://twitter.com/CheemaAIO">CheemaAIO</a> |
+  <a href="https://twitter.com/CheemaAIO">CheemaAIO</a> 
   <br><br>
 </p>
 
-🤖 Here are some projects that I'm working on:
-- [CheemaGen](https://twitter.com/CheemaGen)
-- [CheemaAIO](https://twitter.com/CheemaAIO)
 
 <h2 align="center">
   My Github Stats
