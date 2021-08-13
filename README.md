@@ -1,7 +1,7 @@
 <h1 align="center"> Learning to code with Projects 💻 </h1>
 
 ## What I'm Working on
-  🤖 I’m currently working on Automation Software and APIs\
+  🤖 I’m currently working on Automation Software and APIs
 
 ## My Stats
 ![CheemaOTB's github stats](https://github-readme-stats.vercel.app/api?username=CheemaOTB&show_icons=true&theme=highcontrast&include_all_commits=true&hide=issues)
