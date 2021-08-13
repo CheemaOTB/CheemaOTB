@@ -5,7 +5,7 @@
 - [CheemaAIO](https://twitter.com/CheemaAIO)
 
 <h2 align="center">
-  My Github Stats width="50">
+  My Github Stats width
 </h2>
 ![CheemaOTB's github stats](https://github-readme-stats.vercel.app/api?username=CheemaOTB&show_icons=true&theme=react&count_private=true&hide=issues)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CheemaOTB&layout=compact&theme=react)
