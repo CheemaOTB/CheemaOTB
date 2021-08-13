@@ -2,9 +2,9 @@
 
 
 <h3 align="center"> 
-  <br> 🤖 Here are some projects that I'm working on: <br>
+  🤖 Here are some projects that I'm working on:
   
-  • <a href="https://twitter.com/CheemaGen">CheemaGen</a>
+  <br> • <a href="https://twitter.com/CheemaGen">CheemaGen</a> <br>
   <br> • <a href="https://twitter.com/CheemaAIO">CheemaAIO</a> <br>
 </h3>
 
