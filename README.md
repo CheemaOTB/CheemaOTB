@@ -13,6 +13,7 @@
   <br><br>
    <br> <img  src = "https://github-readme-stats.vercel.app/api?username=CheemaOTB&show_icons=true&theme=react&count_private=true&hide=issues"> 
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=CheemaOTB&layout=compact&theme=react"> <br>
+  <br> <img  src="https://github-readme-streak-stats.herokuapp.com/?user=CheemaOTB&show_icons=true&locale=en&layout=compact&theme=react&line_height=0" /> <br>
 </h2>
 
 <!-- 
