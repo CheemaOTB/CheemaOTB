@@ -2,8 +2,8 @@
 
 <p align="center">
 🤖 Here are some projects that I'm working on
-- [CheemaGen](https://twitter.com/CheemaGen)
-- [CheemaGen](https://twitter.com/CheemaAIO)
+<br> - [CheemaGen](https://twitter.com/CheemaGen) <br>
+<br> - [CheemaGen](https://twitter.com/CheemaAIO) <br>
 </p>
 
 <h2 align="center"></h2>
