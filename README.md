@@ -2,10 +2,10 @@
 
 
 <h3> 🤖 Here are some projects that I'm working on: </h3>
-
+<p align="center">
 - [CheemaGen](https://twitter.com/CheemaGen) 
 - [CheemaAIO](https://twitter.com/CheemaAIO)
-
+</p>
 <h2 align="center"></h2>
 
 <h3 align="center">
