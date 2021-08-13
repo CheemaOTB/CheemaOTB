@@ -1,7 +1,7 @@
 <h1 align="center"> Learning To Code With Projects 💻 </h1>
 
 
-<h3> 🤖 Here are some projects that I'm working on: align="center"</h3>
+<h3 align="center"> 🤖 Here are some projects that I'm working on:</h3>
 <p align="center">
 - [CheemaGen](https://twitter.com/CheemaGen) 
 - [CheemaAIO](https://twitter.com/CheemaAIO)
