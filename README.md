@@ -10,6 +10,8 @@
 
 <h2 align="center">
   My Github Stats
+   <br> <img  src = "https://github-readme-stats.vercel.app/api?username=CheemaOTB&show_icons=true&theme=react&count_private=true&hide=issues"> <br>
+  <br> <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=CheemaOTB&layout=compact&theme=react"> <br>
 </h2>
 
 <!-- 
@@ -17,7 +19,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CheemaOTB&layout=compact&theme=react) -->
 
 <p align = "center">
-  My Github Stats
   <img  src = "https://github-readme-stats.vercel.app/api?username=CheemaOTB&show_icons=true&theme=react&count_private=true&hide=issues">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=CheemaOTB&layout=compact&theme=react">
 </p>
