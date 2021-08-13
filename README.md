@@ -1,9 +1,10 @@
 <h1 align="center"> Learning To Code With Projects 💻 </h1>
 
+<p align="center">
 🤖 Here are some projects that I'm working on
 - [CheemaGen](https://twitter.com/CheemaGen)
 - [CheemaGen](https://twitter.com/CheemaAIO)
-
+</p>
 
 <h2 align="center"></h2>
 
