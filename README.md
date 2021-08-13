@@ -5,7 +5,7 @@
   🤖 Here are some projects that I'm working on:
   
   <br> • <a href="https://twitter.com/CheemaGen">CheemaGen</a> <br>
-  <br> • <a href="https://twitter.com/CheemaAIO">CheemaAIO</a> <br>
+  • <a href="https://twitter.com/CheemaAIO">CheemaAIO</a>
 </h3>
 
  <br><br>
