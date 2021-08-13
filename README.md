@@ -1,13 +1,13 @@
 <h1 align="center"> Learning To Code With Projects 💻 </h1>
 
 
-<h5 align="center">
+<p align="center">
   <b>🤖 Here are some projects that I'm working on:</b><br>
   <br><br>
   ⭐<a href="https://twitter.com/CheemaGen">CheemaGen</a> 
   <br>⭐<a href="https://twitter.com/CheemaAIO">CheemaAIO</a> <br>
   <br><br>
-</h5>
+</p>
 
 
 <h2 align="center">
