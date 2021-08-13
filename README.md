@@ -7,7 +7,19 @@
   <br> • <a href="https://twitter.com/CheemaGen">CheemaGen</a> <br>
   • <a href="https://twitter.com/CheemaAIO">CheemaAIO</a>
 </h2>
- 
+
+<h2 align="center"> 
+  📃 What I Know:
+  
+  <br> 
+  <img src="https://img.icons8.com/windows/32/000000/python.png"/> 
+  <img src="https://img.icons8.com/material-sharp/24/000000/sql.png"/>
+  
+  
+  <br>
+  
+</h2> 
+
 <h2 align="center">
   My Stats
   <br><br>
