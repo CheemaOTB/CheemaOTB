@@ -4,7 +4,7 @@
 <h3> 🤖 Here are some projects that I'm working on: </h3>
 
 - [CheemaGen](https://twitter.com/CheemaGen) 
-- [CheemaGen](https://twitter.com/CheemaAIO)
+- [CheemaAIO](https://twitter.com/CheemaAIO)
 
 <h2 align="center"></h2>
 
