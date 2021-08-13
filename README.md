@@ -2,10 +2,9 @@
 
 
 <h3 align="center"> 🤖 Here are some projects that I'm working on:</h3>
-<p align="center" font="50">
   • <a href="https://twitter.com/CheemaGen">CheemaGen</a>
   <br> • <a href="https://twitter.com/CheemaAIO">CheemaAIO</a> <br>
-</p>
+</h3>
 
  <br><br>
  
