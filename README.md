@@ -2,6 +2,8 @@
 
 
 🤖 Here are some projects that I'm working on
+![CheemaGen](https://twitter.com/CheemaGen)
+![CheemaAIO](https://twitter.com/CheemaAIO)
 ⭐<a href="https://twitter.com/CheemaGen">CheemaGen</a>
 ⭐<a href="https://twitter.com/CheemaAIO">CheemaAIO</a>
 
