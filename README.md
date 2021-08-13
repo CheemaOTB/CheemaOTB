@@ -1,7 +1,9 @@
 <h1 align="center"> Learning to code with Projects 💻 </h1>
 
-## What I'm Working on
-  🤖 I’m currently working on Automation Software's
+🤖 Here are some projects that I'm working on:
+- [CheemaGen](https://twitter.com/CheemaGen)
+- [CheemaAIO](https://twitter.com/CheemaAIO)
+
 
 ## My Stats
 ![CheemaOTB's github stats](https://github-readme-stats.vercel.app/api?username=CheemaOTB&show_icons=true&theme=react&count_private=true&hide=issues)
