@@ -8,7 +8,7 @@
   • <a href="https://twitter.com/CheemaAIO">CheemaAIO</a>
 </h3>
  
-<h3 align="center">
+<h3 align="left">
   My Stats
   <br><br>
         <img  src = "https://github-readme-stats.vercel.app/api?username=CheemaOTB&show_icons=true&theme=react&count_private=true&hide=issues"> 
