@@ -2,7 +2,7 @@
 
 
 <h3 align="center"> 🤖 Here are some projects that I'm working on:</h3>
-<p align="center" font size="80">
+<p align="center" font size="3000">
   • <a href="https://twitter.com/CheemaGen">CheemaGen</a>
   <br> • <a href="https://twitter.com/CheemaAIO">CheemaAIO</a> <br>
 </p>
