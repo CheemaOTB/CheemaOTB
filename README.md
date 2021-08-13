@@ -1,14 +1,14 @@
 <h1 align="center"> Learning To Code With Projects 💻 </h1>
 
 
-<h3 align="center"> 
+<h3 align="left"> 
   🤖 Here are some projects that I'm working on:
   
   <br> • <a href="https://twitter.com/CheemaGen">CheemaGen</a> <br>
   • <a href="https://twitter.com/CheemaAIO">CheemaAIO</a>
 </h3>
  
-<h3 align="center">
+<h3 align="left">
   My Stats
   <br><br>
         <img  src = "https://github-readme-stats.vercel.app/api?username=CheemaOTB&show_icons=true&theme=react&count_private=true&hide=issues"> 
