@@ -6,7 +6,6 @@
   • <a href="https://twitter.com/CheemaGen">CheemaGen</a>
   <br> • <a href="https://twitter.com/CheemaAIO">CheemaAIO</a> <br>
 </p>
-<h2 align="center"></h2>
 
 <h3 align="center">
   My Github Stats
