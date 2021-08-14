@@ -17,7 +17,6 @@
   <img src="https://img.icons8.com/ios-filled/35/4a90e2/c-sharp-logo.png"/>
   <img src="https://img.icons8.com/ios-filled/35/4a90e2/heroku.png"/>
   <img src="https://img.icons8.com/ios-filled/35/4a90e2/selenium-test-automation.png"/>
-  <img src="https://img.icons8.com/material-rounded/35/4a90e2/discord-logo.png"/>
   
   <br>
   
