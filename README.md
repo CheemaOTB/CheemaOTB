@@ -8,8 +8,7 @@
   • <a href="https://twitter.com/CheemaAIO">CheemaAIO</a>
 </h2>
 
-<h2 align="center"> 
-  📃 What I Know:
+<p align="center"> 
   
   <br> 
   <img src="https://img.icons8.com/windows/30/4a90e2/python.png"/>
@@ -20,7 +19,7 @@
   
   <br>
   
-</h2> 
+</p> 
 
 <h2 align="center">
   My Stats
