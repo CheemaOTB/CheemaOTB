@@ -15,10 +15,11 @@
   <img src="https://img.icons8.com/ios-glyphs/35/4a90e2/sql.png"/>  
   <img src="https://img.icons8.com/color/35/4a90e2/mongodb.png"/>
   <img src="https://img.icons8.com/color/35/000000/c-sharp-logo.png"/>
-  <img src="https://img.icons8.com/nolan/35/heroku.png"/>
-  <img src="https://img.icons8.com/ios-filled/35/4a90e2/selenium-test-automation.png"/>
   <img src="https://img.icons8.com/color/35/000000/html-5--v1.png"/>
   <img src="https://img.icons8.com/color/35/000000/css3.png"/>
+  <img src="https://img.icons8.com/ios-filled/35/4a90e2/selenium-test-automation.png"/>
+  <img src="https://img.icons8.com/nolan/35/heroku.png"/>
+
   <br>
   
 </p> 
