@@ -11,7 +11,6 @@
 <p align="center"> 
   
   <br> 
-  <img src="https://img.icons8.com/ios/100/4a90e2/external-coding-coding-kiranshastry-lineal-color-kiranshastry-1.png"/>
   <img src="https://img.icons8.com/windows/35/4a90e2/python.png"/>
   <img src="https://img.icons8.com/ios-glyphs/35/4a90e2/sql.png"/>  
   <img src="https://img.icons8.com/color/35/4a90e2/mongodb.png"/>
