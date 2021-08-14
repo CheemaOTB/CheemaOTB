@@ -11,7 +11,7 @@
 <p align="center"> 
   
   <br> 
-  <img src="https://img.icons8.com/color/35/4a90e2/python--v2.gif"/>
+  <img src="https://img.icons8.com/color/35/4a90e2/python--v2.png"/>
   <img src="https://img.icons8.com/ios-glyphs/35/4a90e2/sql.png"/>  
   <img src="https://img.icons8.com/color/35/4a90e2/mongodb.png"/>
   <img src="https://img.icons8.com/color/35/000000/c-sharp-logo.png"/>
