@@ -12,10 +12,10 @@
   📃 What I Know:
   
   <br> 
-  <img src="https://img.icons8.com/windows/32/4a90e2/python.png"/>
-  <img src="https://img.icons8.com/ios-glyphs/30/4a90e2/sql.png"/>  
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-  <img src="https://img.icons8.com/ios-filled/50/4a90e2/c-sharp-logo.png"/>
+  <img src="https://img.icons8.com/windows/48/4a90e2/python.png"/>
+  <img src="https://img.icons8.com/ios-glyphs/48/4a90e2/sql.png"/>  
+  <img src="https://img.icons8.com/color/48/4a90e2/mongodb.png"/>
+  <img src="https://img.icons8.com/ios-filled/48/4a90e2/c-sharp-logo.png"/>
   
   
   <br>
