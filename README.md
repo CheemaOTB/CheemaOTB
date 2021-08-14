@@ -2,7 +2,7 @@
 
 
 <h2 align="center"> 
-  <img src="https://img.icons8.com/ios/64/000000/external-coding-coding-kiranshastry-gradient-kiranshastry-2.png"/> Here are some projects that I'm working on:
+  <img src="https://www.flaticon.com/free-icon/coding_876019"/> Here are some projects that I'm working on:
   
   <br> • <a href="https://twitter.com/CheemaGen">CheemaGen</a> <br>
        • <a href="https://twitter.com/CheemaAIO">CheemaAIO</a>
