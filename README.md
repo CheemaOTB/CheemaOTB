@@ -11,13 +11,12 @@
 <p align="center"> 
   
   <br> 
-  <img src="https://img.icons8.com/windows/40/4a90e2/python.png"/>
-  <img src="https://img.icons8.com/ios-glyphs/40/4a90e2/sql.png"/>  
-  <img src="https://img.icons8.com/color/40/4a90e2/mongodb.png"/>
-  <img src="https://img.icons8.com/ios-filled/40/4a90e2/c-sharp-logo.png"/>
-  <img src="https://img.icons8.com/ios-filled/40/4a90e2/heroku.png"/>
-  <img src="https://img.icons8.com/ios-filled/40/4a90e2/selenium-test-automation.png"/>
-  
+  <img src="https://img.icons8.com/windows/35/4a90e2/python.png"/>
+  <img src="https://img.icons8.com/ios-glyphs/35/4a90e2/sql.png"/>  
+  <img src="https://img.icons8.com/color/35/4a90e2/mongodb.png"/>
+  <img src="https://img.icons8.com/ios-filled/35/4a90e2/c-sharp-logo.png"/>
+  <img src="https://img.icons8.com/ios-filled/35/4a90e2/heroku.png"/>
+  <img src="https://img.icons8.com/ios-filled/35/4a90e2/selenium-test-automation.png"/>
   
   <br>
   
