@@ -1,4 +1,4 @@
-<h1 align="center"> Learning To Code With Projects 💻 </h1>
+<h1 align="center"> Learning To Code With Projects <img src="https://img.icons8.com/pastel-glyph/30/4a90e2/laptop-coding--v1.png"/> </h1>
 
 
 <h2 align="center"> 
