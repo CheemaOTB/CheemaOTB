@@ -2,7 +2,7 @@
 
 
 <h2 align="center"> 
-  <img src="https://img.icons8.com/ios-filled/30/4a90e2/project.png"/> Here are some projects that I'm working on:
+  <img src="https://img.icons8.com/ios-filled/25/4a90e2/project.png"/> Here are some projects that I'm working on:
   
   <br> • <a href="https://twitter.com/CheemaGen">CheemaGen</a> <br>
        • <a href="https://twitter.com/CheemaAIO">CheemaAIO</a>
