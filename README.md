@@ -4,7 +4,7 @@
 <h2 align="center"> 
  <img src="https://img.icons8.com/ios-filled/22/4a90e2/robot.png"/> Here are some projects that I'm working on:
   
-  <br> • <a href="https://twitter.com/CheemaGen">CheemaGen</a> <br>
+  <br> • <a href="https://cheemagen.software">CheemaGen</a> <br>
        • <a href="https://twitter.com/CheemaAIO">CheemaAIO</a>
 </h2>
 
