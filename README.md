@@ -1,12 +1,9 @@
-<h1 align="center"> Learning To Code With Projects <img src="https://img.icons8.com/pastel-glyph/30/4a90e2/laptop-coding--v1.png"/> </h1>
-
-
-<h2 align="center"> 
+<h1 align="center"> 
  <img src="https://img.icons8.com/ios-filled/22/4a90e2/robot.png"/> Here are some projects that I'm working on:
   
   <br> • <a href="https://cheemagen.com">CheemaGen</a> <br>
        • <a href="https://twitter.com/CheemaAIO">CheemaAIO</a>
-</h2>
+</h1>
 
 <p align="center"> 
   
