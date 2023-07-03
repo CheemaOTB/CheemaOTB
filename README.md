@@ -21,7 +21,6 @@
 </p> 
 
 <h2 align="center">
-  My Stats
   <br><br>
         <img  src = "https://github-readme-stats.vercel.app/api?username=CheemaOTB&show_icons=true&theme=tokyonight&count_private=true&hide=issues"> 
         <br><img  src="https://github-readme-streak-stats.herokuapp.com/?user=CheemaOTB&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0"><br>
