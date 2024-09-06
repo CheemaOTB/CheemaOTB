@@ -1,13 +1,6 @@
 <p align="center"><img src="https://i.imgur.com/emQmqoi.png" /></p>
 
 
-<h1 align="center"> 
- <img src="https://img.icons8.com/ios-filled/22/4a90e2/robot.png"/> Here are some projects that I'm working on:
-  
-  <br> • <a href="https://cheemarobotics.com">Cheema Robotics</a> <br>
-</h1>
-
-
 
 
   
