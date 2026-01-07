@@ -6,9 +6,9 @@
   
 </p> 
 <h2 align="center">
-        <img  src = "https://github-readme-stats.vercel.app/api?username=dockyjr&show_icons=true&theme=tokyonight&count_private=true&hide=issues"> 
-        <br><img  src="https://github-readme-streak-stats.herokuapp.com/?user=dockyjr&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0"><br>
-        <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dockyjr&layout=compact&theme=tokyonight">
+        <img  src = "https://github-readme-stats.vercel.app/api?username=CheemaOTB&show_icons=true&theme=tokyonight&count_private=true&hide=issues"> 
+        <br><img  src="https://github-readme-streak-stats.herokuapp.com/?user=CheemaOTB&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0"><br>
+        <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=CheemaOTB&layout=compact&theme=tokyonight">
 </h2>
 
 <!-- 
