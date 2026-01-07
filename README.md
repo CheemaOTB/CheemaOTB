@@ -7,7 +7,7 @@
 </p> 
 <h2 align="center">
         <img  src = "https://github-readme-stats-fast.vercel.app/api?username=CheemaOTB&show_icons=true&theme=tokyonight&count_private=true&hide=issues"> 
-        <br><img  src="https://github-readme-streak-stats-fast.herokuapp.com/?user=CheemaOTB&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0"><br>
+        <br><img  src="https://github-readme-streak-stats-fast.vercel.com/?username=CheemaOTB&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0"><br>
         <img src = "https://github-readme-stats-fast.vercel.app/api/top-langs/?username=CheemaOTB&layout=compact&theme=tokyonight">
 </h2>
 
