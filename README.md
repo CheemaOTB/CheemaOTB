@@ -12,8 +12,8 @@
 
   <!-- Bottom row -->
   <div align="center">
-    <img width="45%" src="https://github-readme-stats-fast.vercel.app/api/streak?username=CheemaOTB&show_icons=true&locale=en&layout=compact&theme=macos_dark&border_radius=8&hide_border" />
-    <img width="38%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=CheemaOTB&layout=compact&theme=macos_dark&hide_border=true" />
+    <img width="50%" src="https://github-readme-stats-fast.vercel.app/api/streak?username=CheemaOTB&show_icons=true&locale=en&layout=compact&theme=macos_dark&border_radius=8&hide_border" />
+    <img width="42.5%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=CheemaOTB&layout=compact&theme=macos_dark&hide_border=true" />
   </div>
 </h2>
 
